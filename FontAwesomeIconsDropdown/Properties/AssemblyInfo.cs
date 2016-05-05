@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FontAwesomeIconsDropdown")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This is an EPiServer edit-mode dropdown that displays the list of font-awesome icons to the editor.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Marija Jemuovic")]
 [assembly: AssemblyProduct("FontAwesomeIconsDropdown")]
 [assembly: AssemblyCopyright("Copyright © Marija Jemuovic, Jeroen Stemerdink 2016")]
 [assembly: AssemblyTrademark("")]
