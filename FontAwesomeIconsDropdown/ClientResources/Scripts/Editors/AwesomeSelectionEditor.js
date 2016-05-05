@@ -10,7 +10,7 @@
 // Resources
     "epi/i18n!epi/cms/nls/episerver.cms.widget.contentselector",
 
-    'xstyle/css!//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'
+     'xstyle/css!//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css'
 ],
 function (
 // Dojo
